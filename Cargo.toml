@@ -1,0 +1,8 @@
+[package]
+name = "rli"
+version = "0.1.0"
+authors = ["Dennis Durling <djdtahoe@gmail.com>"]
+
+[dependencies]
+console = "0.6.1"
+termion = "1.5.1"
